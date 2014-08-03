@@ -129,3 +129,4 @@
 /sys/devices/system/cpu/cpu* cpufreq/scaling_max_freq   0664    system  system
 /sys/devices/system/cpu/cpu* cpufreq/scaling_min_freq   0664    system  system
 /sys/devices/system/cpu/cpu* cpufreq/scaling_governor   0664    system  system
+/sys/devices/system/cpu/cpu* cpufreq/UV_mV_table	0644	system 	system
